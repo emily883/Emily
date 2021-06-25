@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Emily Cruz</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 <p align="center">
 <a href="https://github.com/emily883" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Emily" height="30" width="40" /></a>
 <a href="https://www.facebook.com/emiy880/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Emily Cruz" height="30" width="40" /></a>
