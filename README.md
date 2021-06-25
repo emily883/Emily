@@ -1,6 +1,6 @@
 <h1 align="center">Hi!! , I'm Emily Cruz</h1>
 <h3 align="center">Full stack developer</h3>
-<p>Estudiante de ingeniería en sistemas de información. I am a Full-Stack developer. Currently looking for a job opportunity in the world of web development, while I continue to learn new technologies and reinforce what I have learned. </p>
+<p>I am a Full-Stack developer. Currently looking for a job opportunity in the world of web development, while I continue to learn new technologies and reinforce what I have learned. </p>
 
 - From Puerto Rico, but currently living in North Carolina US
 
