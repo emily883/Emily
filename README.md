@@ -32,8 +32,7 @@
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode or listen to rock music*<br><br><br><br>
  
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
-<p align="left">
+
   
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
   <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
