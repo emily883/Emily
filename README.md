@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Web Developer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/emily-fullstack/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Emily" height="30" width="40" /></a>
- <a href="https://github.com/emily883" target="blank"><img align="center" src="https://simpleicons.org/icons/github.svg" alt="Emily" height="30" width="40" /></a>
+
  <a href = "mailto: emily.moraima.cruz@hotmail.com"><img align="center" src="https://simpleicons.org/icons/microsoftoutlook.svg" height="30" width="40" /></a>
 </p>
 </p>
