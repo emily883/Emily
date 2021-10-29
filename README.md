@@ -27,8 +27,11 @@
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
-  <b><i>There are no limits to learn!!!</i></b> 
+  <b><i>There are no limits to learn!!!</i></b>
+  <br><br>
+  <b>Here you can see My professional portfolio https://emilycruzportfolio.herokuapp.com </b>
 </p>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emily883&label=Profile%20views&color=0e75b6&style=flat" alt="Emily Cruz" /> </p>
 
