@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="#" ><img src="https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif" width="100"/></a>
-  <a href="#" ><img src="https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif" width="100" height="85 /></a>
-  <a href="#" ><img src="https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif" width="100" height="85 /></a>
-  <a href="#" ><img src="https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif" width="100" height="85 /></a>
-  <a href="#" ><img src="https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif" width="100" height="85 /></a>
-  <a href="#" ><img src="https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif" width="100" /></a>
+  <a href="#" ><img src="https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif" width="100" height="85" /></a>
+  <a href="#" ><img src="https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif" width="100" height="85" /></a>
+  <a href="#" ><img src="https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif" width="100" height="85" /></a>
+  <a href="#" ><img src="https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif" width="100" height="85" /></a>
+  <a href="#" ><img src="https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif" width="100" height="85" /></a>
+  <a href="#" ><img src="https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif" width="100" height="85" /></a>
 </p>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Emily Cruz</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="1px">, I'm Emily Cruz</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/emily-fullstack/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/4a90e2/linkedin.png" alt="Emily" height="30" width="40" /></a>
