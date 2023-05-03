@@ -29,7 +29,7 @@
   <br>
   <b><i>There are no limits to learn!!!</i></b>
   <br><br>
-  <b>Here you can see My professional portfolio [https://emilyportfolio.netlify.app/](https://emilyportfolio.netlify.app/) </b>
+  <b>Here you can see My professional portfolio https://emilyportfolio.netlify.app/ </b>
 </p>
 <br>
 
