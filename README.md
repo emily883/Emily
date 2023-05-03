@@ -12,7 +12,7 @@
 <h3 align="center">Full Stack Web Developer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/emily-fullstack/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/4a90e2/linkedin.png" alt="Emily" height="30" width="40" /></a>
- <a href = "mailto: emily.moraima.cruz@hotmail.com"><img align="center" src="https://img.icons8.com/color/48/4a90e2/send-mass-email.png" height="30" width="40" /></a>
+ <a href = "mailto: emily_cruz1@outlook.com"><img align="center" src="https://img.icons8.com/color/48/4a90e2/send-mass-email.png" height="30" width="40" /></a>
 </p>
 </p>
 
@@ -29,7 +29,7 @@
   <br>
   <b><i>There are no limits to learn!!!</i></b>
   <br><br>
-  <b>Here you can see My professional portfolio https://emily-cruz.ml/ </b>
+  <b>Here you can see My professional portfolio [https://emilyportfolio.netlify.app/](https://emilyportfolio.netlify.app/) </b>
 </p>
 <br>
 
