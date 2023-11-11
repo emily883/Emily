@@ -46,8 +46,9 @@
 
   
   <code><img height="50" src="https://img.icons8.com/color/48/000000/python--v1.png"></code>
-   <code> <img height="50" src="https://img.icons8.com/nolan/64/flask.png"> </code>
+  <code><img height="50" src="https://img.icons8.com/c-sharp-logo"></code>
    <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
+   <code> <img height="50" src="https://img.icons8.com/nolan/64/flask.png"> </code>
   <code> <img height="50" src="https://img.icons8.com/color/48/000000/git.png"> </code>
   <code> <img height="50" src="https://1000logos.net/wp-content/uploads/2020/08/SQLite-Logo.png"> </code>
   <code> <img height="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"> </code>
