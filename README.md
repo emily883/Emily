@@ -27,7 +27,7 @@
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20">&nbsp.
   </em> 
   <br>
-  <b><i>There are no limits to learn!!!</i></b>
+  <b><i>There are no limits to learn!!!!</i></b>
   <br><br>
   <b>Here you can see My professional portfolio <a href="https://emilycruz.xyz/">emilycruz.xyz</a> </b>
 </p>
