@@ -9,7 +9,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="85">, I'm Emily Cruz</h1>
-<h3 align="center">Full Stack Web Developer and a Software Engineer Student</h3>
+<h3 align="center">Full Stack Web Developer and a Computer Science w/conc. Software Engineering Student</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/emily-fullstack/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/4a90e2/linkedin.png" alt="Emily's Linkedin" height="30" width="40" /></a>
  <a href = "mailto: emily_cruz1@outlook.com"><img align="center" src="https://img.icons8.com/color/48/4a90e2/send-mass-email.png" height="30" width="40" /></a>
@@ -26,8 +26,6 @@
     <b>grow</b> and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20">&nbsp.
   </em> 
-  <br>
-  Student at Southern New Hampshire University, B.S. Computer Science w/conc Software Engineering
   <br>
   <b><i>There are no limits to learn!!!!</i></b>
   <br><br>
