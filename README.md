@@ -27,6 +27,8 @@
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20">&nbsp.
   </em> 
   <br>
+  Student at Southern New Hampshire University, B.S. Computer Science w/conc Software Engineering
+  <br>
   <b><i>There are no limits to learn!!!!</i></b>
   <br><br>
   <b>Here you can see My professional portfolio <a href="https://emilycruz.xyz/">emilycruz.xyz</a> </b>
