@@ -29,7 +29,7 @@
   <br>
   <b><i>There are no limits to learn!!!!</i></b>
   <br><br>
-  <b>Here you can see My professional portfolio <a href="https://emilycruz.xyz/">emilycruz.xyz</a> </b>
+  <b>Here you can see My professional portfolio <a href="https://emilyportfolio.netlify.app/">emilyportfolio.netlify.app</a> </b>
 </p>
 <br>
 
